@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditoriaCidada", "AuditoriaCidada\AuditoriaCidada.csproj", "{B6852DA3-9708-4B10-809F-8E47D5E28824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditoriaCidada.UITests", "AuditoriaCidada.UITests\AuditoriaCidada.UITests.csproj", "{6C539B58-07F9-4E94-B689-A19565754500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C539B58-07F9-4E94-B689-A19565754500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C539B58-07F9-4E94-B689-A19565754500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C539B58-07F9-4E94-B689-A19565754500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C539B58-07F9-4E94-B689-A19565754500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6852DA3-9708-4B10-809F-8E47D5E28824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6852DA3-9708-4B10-809F-8E47D5E28824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6852DA3-9708-4B10-809F-8E47D5E28824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6852DA3-9708-4B10-809F-8E47D5E28824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

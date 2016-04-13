@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="AuditoriaCidada/AuditoriaCidada.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuditoriaCidada/MainActivity.cs">
+    <Files>
+      <File FileName="AuditoriaCidada/MainActivity.cs" Line="12" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
