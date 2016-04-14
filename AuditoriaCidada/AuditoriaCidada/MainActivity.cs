@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace AuditoriaCidada
 {
-	[Activity (Label = "AuditoriaCidada", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity (Label = "AuditoriaCidada", MainLauncher = true, Theme="@android:style/Theme.NoTitleBar")]
 	public class MainActivity : Activity
 	{
 
@@ -18,11 +18,11 @@ namespace AuditoriaCidada
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.btnEntrar);
-			
+		
+
+
 			button.Click += delegate {
-
-
-
+				
 			};
 		}
 	}

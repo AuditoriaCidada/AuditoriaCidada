@@ -10,9 +10,13 @@
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/mipmap-xhdpi/icon.png
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/mipmap-xxhdpi/icon.png
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/layout/principal.xml
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/drawable/logoapp.png
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/drawable/governo.png
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/drawable/rounded_corner.xml
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/drawable/rounded_corner_button_yellow.xml
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/R.cs.flag
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/bin/Debug/br.auditoriacidada.auditoriacidada-Signed.apk
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/uploadflags.txt
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/AuditoriaCidada.dll
 /Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/AuditoriaCidada.dll.mdb
-/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/res/layout/principal.xml
