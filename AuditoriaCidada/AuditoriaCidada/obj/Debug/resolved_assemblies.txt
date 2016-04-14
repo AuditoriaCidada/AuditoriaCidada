@@ -1,0 +1,8 @@
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/AuditoriaCidada.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/System.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/System.Xml.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/Mono.Android.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/System.Core.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/mscorlib.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/grecio/Projects/AuditoriaCidada/AuditoriaCidada/AuditoriaCidada/obj/Debug/assemblies/System.ServiceModel.Internals.dll

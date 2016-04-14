@@ -7,7 +7,6 @@ namespace AuditoriaCidada
 	[Activity (Label = "AuditoriaCidada", MainLauncher = true, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 1;
 
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
@@ -18,10 +17,12 @@ namespace AuditoriaCidada
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
+			Button button = FindViewById<Button> (Resource.Id.btnEntrar);
 			
 			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
+
+
+
 			};
 		}
 	}
