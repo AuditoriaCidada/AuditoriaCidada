@@ -11,26 +11,58 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int governo=0x7f020000;
-        public static final int logoapp=0x7f020001;
-        public static final int rounded_corner=0x7f020002;
-        public static final int rounded_corner_button_yellow=0x7f020003;
+        public static final int actionbar=0x7f020000;
+        public static final int botao_01=0x7f020001;
+        public static final int botao_02=0x7f020002;
+        public static final int botao_03=0x7f020003;
+        public static final int convenio_01=0x7f020004;
+        public static final int convenio_02=0x7f020005;
+        public static final int governo=0x7f020006;
+        public static final int logoapp=0x7f020007;
+        public static final int menu_principal=0x7f020008;
+        public static final int monoandroidsplash=0x7f020009;
+        public static final int navegacao_roteiro=0x7f02000a;
+        public static final int principal_bg=0x7f02000b;
+        public static final int rodape=0x7f02000c;
+        public static final int roteiro=0x7f02000d;
+        public static final int rounded_corner=0x7f02000e;
+        public static final int rounded_corner_button_yellow=0x7f02000f;
     }
     public static final class id {
-        public static final int btnEntrar=0x7f060004;
-        public static final int demoImageView=0x7f060000;
-        public static final int txtCpf=0x7f060002;
-        public static final int txtEmail=0x7f060003;
-        public static final int txtNome=0x7f060001;
+        public static final int Convenio_imageView2=0x7f070002;
+        public static final int Convenios_imbConvenio1=0x7f070000;
+        public static final int Convenios_imbConvenio2=0x7f070001;
+        public static final int NovaAuditoria_imageView2=0x7f070009;
+        public static final int NovaAuditoria_imbRoteiro=0x7f070008;
+        public static final int Principal_menu=0x7f07000a;
+        public static final int btnEntrar=0x7f070007;
+        public static final int button1=0x7f07000c;
+        public static final int demoImageView=0x7f070003;
+        public static final int imageView2=0x7f07000d;
+        public static final int imbNovaAuditoria=0x7f070010;
+        public static final int linearLayout1=0x7f07000b;
+        public static final int tableLayout1=0x7f07000e;
+        public static final int tableRow1=0x7f07000f;
+        public static final int textView1=0x7f070011;
+        public static final int txtCpf=0x7f070005;
+        public static final int txtEmail=0x7f070006;
+        public static final int txtNome=0x7f070004;
     }
     public static final class layout {
-        public static final int main=0x7f040000;
-        public static final int principal=0x7f040001;
+        public static final int convenios=0x7f040000;
+        public static final int main=0x7f040001;
+        public static final int novaauditoria=0x7f040002;
+        public static final int principal=0x7f040003;
+        public static final int roteiro=0x7f040004;
+        public static final int tab=0x7f040005;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+    }
+    public static final class style {
+        public static final int Mono_Android_Theme_Splash=0x7f060000;
     }
 }

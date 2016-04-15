@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace AuditoriaCidada
 {
@@ -15,15 +16,24 @@ namespace AuditoriaCidada
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 
-			// Get our button from the layout resource,
-			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.btnEntrar);
-		
+
+            Toast.MakeText(this.ApplicationContext,"Instruções de Teste: Clique no botão [Entrar] para ter acesso a tela principal.", ToastLength.Long).Show();
 
 
+            // Get our button from the layout resource,
+            // and attach an event to it
+            Button button = FindViewById<Button> (Resource.Id.btnEntrar);
+
+      
 			button.Click += delegate {
-				
-			};
+
+                var intent = new Intent(this, typeof(Principal));
+
+                StartActivity(intent);
+
+              
+
+            };
 		}
 	}
 }

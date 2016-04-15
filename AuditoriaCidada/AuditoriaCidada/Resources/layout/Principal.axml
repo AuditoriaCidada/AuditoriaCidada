@@ -3,6 +3,85 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#336666"
+    android:background="@drawable/principal_bg"
     android:minWidth="25px"
-    android:minHeight="25px" />
+    android:minHeight="25px">
+    <ImageView
+        android:src="@drawable/menu_principal"
+        android:layout_width="200dp"
+        android:layout_height="215dp"
+        android:id="@+id/Principal_menu"
+        android:layout_centerHorizontal="true" />
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Principal_menu"
+        android:id="@+id/linearLayout1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="50dp">
+        <Button
+            android:text="Salvador/BA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:background="@drawable/rounded_corner_button_yellow"
+            android:width="220dp"
+            android:id="@+id/button1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp" />
+        <ImageView
+            android:src="@drawable/rodape"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/linearLayout1"
+            android:id="@+id/imageView2"
+            android:background="@drawable/rodape"
+            android:layout_alignParentBottom="true" />
+        <TableLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="103.5dp">
+                <ImageView
+                    android:src="@drawable/botao_01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@id/linearLayout1"
+                    android:id="@+id/imageView2"
+                    android:background="@drawable/botao_01"
+                    android:layout_alignParentBottom="true"
+                    android:paddingRight="10dp"
+                    android:layout_marginRight="50dp" />
+                <ImageView
+                    android:src="@drawable/botao_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@id/linearLayout1"
+                    android:id="@+id/imageView2"
+                    android:background="@drawable/botao_02"
+                    android:layout_alignParentBottom="true" />
+                <ImageView
+                    android:src="@drawable/botao_03"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@id/linearLayout1"
+                    android:id="@+id/imbNovaAuditoria"
+                    android:background="@drawable/botao_03"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="50dp" />
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+</RelativeLayout>
